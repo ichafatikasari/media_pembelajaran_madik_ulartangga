@@ -1,0 +1,6 @@
+{
+  "name": "Ular Tangga Word Adventure",
+  "description": "Game edukasi interaktif ular tangga untuk ice breaking pembelajaran fungsi dasar Microsoft Word kelas 10 MA/SMA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
